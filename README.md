@@ -10,7 +10,7 @@ Para descargar el material ejecuta lo siguiente:
 if (!require("usethis")) {
     install.packages("usethis")
 }
-usethis::use_course("comunidadbioinfo/explora-librerias")
+usethis::use_course("comunidadbioinfo/corrige-rutas")
 ```
 
 
